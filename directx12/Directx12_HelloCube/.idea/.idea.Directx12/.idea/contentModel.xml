@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Directx12.sln" t="IncludeFlat" />
+      <e p="HelloWorld" t="IncludeRecursive">
+        <e p="D3D12HelloWorld.cpp" t="Include" />
+        <e p="D3D12HelloWorld.h" t="Include" />
+        <e p="d3dx12.h" t="Include" />
+        <e p="DDSTextureLoader12.cpp" t="Include" />
+        <e p="DDSTextureLoader12.h" t="Include" />
+        <e p="directx12.dds" t="Include" />
+        <e p="DXSample.cpp" t="Include" />
+        <e p="DXSample.h" t="Include" />
+        <e p="DXSampleHelper.h" t="Include" />
+        <e p="HelloWorld.vcxproj" t="IncludeRecursive" />
+        <e p="main.cpp" t="Include" />
+        <e p="PixelShader.hlsl" t="Include" />
+        <e p="stdafx.h" t="Include" />
+        <e p="VertexShader.hlsl" t="Include" />
+        <e p="Win32Application.cpp" t="Include" />
+        <e p="Win32Application.h" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_Directx12.-1231954836.00" t="ExcludeRecursive" />
+  </component>
+</project>
